@@ -34,6 +34,16 @@ const Login = () => {
       onChange={validateLogin}
       errors={errors.password}
       /> 
+
+      <Input 
+      type='phone'
+      name='phone'
+      placeholder='phone'
+      value={values.phone}
+      onChange={validateLogin}
+      errors={errors.phone}
+      /> 
+
     </Form>
   )
 }
