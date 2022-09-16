@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/honeywell_assesment/static/css/main.6ae97af4.css",
-    "main.js": "/honeywell_assesment/static/js/main.99caaac0.js",
-    "static/media/pinkfruit.png": "/honeywell_assesment/static/media/pinkfruit.8c753ade196ad4a12198.png",
-    "static/media/bg_pink.jpg": "/honeywell_assesment/static/media/bg_pink.29a48973affd03067a3f.jpg",
-    "static/media/bg_purple.jpg": "/honeywell_assesment/static/media/bg_purple.ba40420e5dfa87686708.jpg",
-    "index.html": "/honeywell_assesment/index.html",
-    "main.6ae97af4.css.map": "/honeywell_assesment/static/css/main.6ae97af4.css.map",
-    "main.99caaac0.js.map": "/honeywell_assesment/static/js/main.99caaac0.js.map"
+    "main.css": "/login/static/css/main.6ae97af4.css",
+    "main.js": "/login/static/js/main.0067dd40.js",
+    "static/media/pinkfruit.png": "/login/static/media/pinkfruit.8c753ade196ad4a12198.png",
+    "static/media/bg_pink.jpg": "/login/static/media/bg_pink.29a48973affd03067a3f.jpg",
+    "static/media/bg_purple.jpg": "/login/static/media/bg_purple.ba40420e5dfa87686708.jpg",
+    "index.html": "/login/index.html",
+    "main.6ae97af4.css.map": "/login/static/css/main.6ae97af4.css.map",
+    "main.0067dd40.js.map": "/login/static/js/main.0067dd40.js.map"
   },
   "entrypoints": [
     "static/css/main.6ae97af4.css",
-    "static/js/main.99caaac0.js"
+    "static/js/main.0067dd40.js"
   ]
 }
